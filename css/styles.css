@@ -1,6 +1,6 @@
-* {
+/** {
     padding: 0 5px;
-}
+}*/
 
 #estiloUno {
     background-color: black;
@@ -10,12 +10,12 @@
 
 .textoParteUno {
     color: white;
-    padding-right: 0;
+    /*padding-right: 0;*/
 }
 
 .textoParteDos {
     color: aqua;
-    padding-left: 0;
+    /*padding-left: 0;*/
 }
 
 #estiloDos {
@@ -33,13 +33,13 @@
     font-family: cursive;
 }
 
-#estiloDos h2, #estiloTres h3 {
+/*#estiloDos h2, #estiloTres h3 {
     padding: 5px 0;
 } 
 
 #estiloTres h3 {
     padding-right: 5px;
-}
+}*/
 
 #estiloDos, #estiloTres {
     font-weight: lighter;
