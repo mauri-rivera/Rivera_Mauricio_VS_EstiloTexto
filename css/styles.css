@@ -1,0 +1,47 @@
+* {
+    padding: 0 5px;
+}
+
+#estiloUno {
+    background-color: black;
+    text-align: left;
+    font-family: cursive;
+}
+
+.textoParteUno {
+    color: white;
+    padding-right: 0;
+}
+
+.textoParteDos {
+    color: aqua;
+    padding-left: 0;
+}
+
+#estiloDos {
+    background-color: rgb(85, 18, 147);
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#estiloTres {
+    background-color: rgb(44, 163, 210);
+    text-align: right;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+#estiloDos h2, #estiloTres h3 {
+    padding: 5px 0;
+} 
+
+#estiloTres h3 {
+    padding-right: 5px;
+}
+
+#estiloDos, #estiloTres {
+    font-weight: lighter;
+}
+
